@@ -1,0 +1,3366 @@
+{
+	"name": "Country",
+	"children": [{
+			"name": "Ireland",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 216550.9"
+				}, {
+					"name": "Education:99.92333221"
+				}, {
+					"name": "Employment: 56.44"
+				}, {
+					"name": "Finance: 11813999689"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 219846.5 "
+				}, {
+					"name": "Education: 99.73129272"
+				}, {
+					"name": "Employment: 57.01"
+				}, {
+					"name": "Finance: 7614521594"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 223846.4"
+				}, {
+					"name": "Education: 99.997612"
+				}, {
+					"name": "Employment: 57.09"
+				}, {
+					"name": "Finance: 6130009887"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 227432"
+				}, {
+					"name": "Education: 99.89285278"
+				}, {
+					"name": "Employment: 57.02"
+				}, {
+					"name": "Finance: 4603864133"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 231163.4"
+				}, {
+					"name": "Education: 99.94756317"
+				}, {
+					"name": "Employment: 57.37"
+				}, {
+					"name": "Finance: -1543026925"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 236227.6"
+				}, {
+					"name": "Education: 99.87484741"
+				}, {
+					"name": "Employment: 59.27"
+				}, {
+					"name": "Finance: 740166608.4"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 241889"
+				}, {
+					"name": "Education: 99.88993835"
+				}, {
+					"name": "Employment: 60.39"
+				}, {
+					"name": "Finance: -6246640745"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 250056.1"
+				}, {
+					"name": "Education: 99.92418671"
+				}, {
+					"name": "Employment: 61.08"
+				}, {
+					"name": "Finance: -16804456735"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 256298.9"
+				}, {
+					"name": "Education: 99.81939697"
+				}, {
+					"name": "Employment: 59.5"
+				}, {
+					"name": "Finance: -25192321735"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 259053.3"
+				}, {
+					"name": "Education: 99.68856812"
+				}, {
+					"name": "Employment: 54.51"
+				}, {
+					"name": "Finance: 1922464053"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 260276.2"
+				}, {
+					"name": "Education: 99.66596985"
+				}, {
+					"name": "Employment: 52.3"
+				}, {
+					"name": "Finance: -8392036952"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 261430.6"
+				}, {
+					"name": "Education: 99.25289917"
+				}, {
+					"name": "Employment: 51.4"
+				}, {
+					"name": "Finance: -13908375388"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 262022.1"
+				}, {
+					"name": "Education: 99.43226624"
+				}, {
+					"name": "Employment: 51.13"
+				}, {
+					"name": "Finance: -1050413620"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 262465.1"
+				}, {
+					"name": "Education: 99.2397995"
+				}, {
+					"name": "Employment: 52.36"
+				}, {
+					"name": "Finance: 13317879864"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 263416.6"
+				}, {
+					"name": "Education: 98.92880249"
+				}, {
+					"name": "Employment: "
+				}, {
+					"name": "Finance: 8780262846"
+				}]
+			}]
+		}, {
+			"name": "Israel",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 359386.309"
+				}, {
+					"name": "Education: 97.84636688"
+				}, {
+					"name": "Employment: 54.88"
+				}, {
+					"name": "Finance: -4793600000"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 367952"
+				}, {
+					"name": "Education: 98.31083679"
+				}, {
+					"name": "Employment: 54.52"
+				}, {
+					"name": "Finance: -4793600000"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 375433.4"
+				}, {
+					"name": "Education: 97.98954773"
+				}, {
+					"name": "Employment: 53.24"
+				}, {
+					"name": "Finance: 2281600000"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 382279.099"
+				}, {
+					"name": "Education: 98.0803299"
+				}, {
+					"name": "Employment: 53.2"
+				}, {
+					"name": "Finance: 1814300000"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 389087.7"
+				}, {
+					"name": "Education: 97.66333008"
+				}, {
+					"name": "Employment: 53.92"
+				}, {
+					"name": "Finance: 4427100000"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 396010.5"
+				}, {
+					"name": "Education: 97.53903198"
+				}, {
+					"name": "Employment: 55.23"
+				}, {
+					"name": "Finance: 5109800000"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 403070.5"
+				}, {
+					"name": "Education: 97.06288147"
+				}, {
+					"name": "Employment: 55.9"
+				}, {
+					"name": "Finance: 11562800000"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 410294.8"
+				}, {
+					"name": "Education: 97.29232025"
+				}, {
+					"name": "Employment: 57.13"
+				}, {
+					"name": "Finance: 10579400000"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 417649"
+				}, {
+					"name": "Education: 97.26513672"
+				}, {
+					"name": "Employment: 58.11"
+				}, {
+					"name": "Finance: 3175000000"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 427750.4"
+				}, {
+					"name": "Education: 96.96782684"
+				}, {
+					"name": "Employment: 57.20"
+				}, {
+					"name": "Finance: 1737700000"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 435636.1"
+				}, {
+					"name": "Education: 97.38546753"
+				}, {
+					"name": "Employment: 58.05"
+				}, {
+					"name": "Finance: 9841300000"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 443763.3"
+				}, {
+					"name": "Education: 97.02285004"
+				}, {
+					"name": "Employment: 58.59"
+				}, {
+					"name": "Finance: 8310600000"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 452033.3"
+				}, {
+					"name": "Education: 97.67539215"
+				}, {
+					"name": "Employment: 59.22"
+				}, {
+					"name": "Finance: 10277200000"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 460567.8"
+				}, {
+					"name": "Education: 97.24958038"
+				}, {
+					"name": "Employment: 59.73"
+				}, {
+					"name": "Finance: 4500200000"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 460589.8"
+				}, {
+					"name": "Education: 97.06532288"
+				}, {
+					"name": "Employment: 60.42"
+				}, {
+					"name": "Finance: 8403900000"
+				}]
+			}]
+		},{
+			"name": "Italy",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 3253839.14"
+				}, {
+					"name": "Education: 99.7511673"
+				}, {
+					"name": "Employment: 42.93"
+				}, {
+					"name": "Finance: -1726704943"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 3255845"
+				}, {
+					"name": "Education: 99.66793823"
+				}, {
+					"name": "Employment: 43.67"
+				}, {
+					"name": "Finance: 9241534893"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 3266142"
+				}, {
+					"name": "Education: 99.57726288"
+				}, {
+					"name": "Employment: 44.29"
+				}, {
+					"name": "Finance: -280976120"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 3291699.32"
+				}, {
+					"name": "Education: 99.53024292"
+				}, {
+					"name": "Employment: 44.89"
+				}, {
+					"name": "Finance: -22534782858"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 3324308"
+				}, {
+					"name": "Education: 99.47698975"
+				}, {
+					"name": "Employment: 45.77"
+				}, {
+					"name": "Finance: -10170816466"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 3348978"
+				}, {
+					"name": "Education: 99.30175018"
+				}, {
+					"name": "Employment: 45.31"
+				}, {
+					"name": "Finance: -39697940179"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 3368090"
+				}, {
+					"name": "Education: 99.21211243"
+				}, {
+					"name": "Employment: 45.75"
+				}, {
+					"name": "Finance: -41974343661"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 3392878"
+				}, {
+					"name": "Education: 99.15022278"
+				}, {
+					"name": "Employment: 45.79"
+				}, {
+					"name": "Finance: -29370934871"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 3418986"
+				}, {
+					"name": "Education: 99.09864807"
+				}, {
+					"name": "Employment: 45.8"
+				}, {
+					"name": "Finance: -41688845972"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 3439587"
+				}, {
+					"name": "Education: 99.14749146"
+				}, {
+					"name": "Employment: 44.72"
+				}, {
+					"name": "Finance: -47062260816"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 3456198"
+				}, {
+					"name": "Education: 99.25492859"
+				}, {
+					"name": "Employment: 44.17"
+				}, {
+					"name": "Finance: -1.06E+11"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 3464373"
+				}, {
+					"name": "Education: 98.98954773"
+				}, {
+					"name": "Employment: 44.12"
+				}, {
+					"name": "Finance: -80215528984"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 3480931"
+				}, {
+					"name": "Education: 99.31936646"
+				}, {
+					"name": "Employment: 43.85"
+				}, {
+					"name": "Finance: -3921031980"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 3546576"
+				}, {
+					"name": "Education: 99.45852661"
+				}, {
+					"name": "Employment: 42.87"
+				}, {
+					"name": "Finance: 28661969636"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 27.9405705"
+				}, {
+					"name": "Education: 99.27877045"
+				}, {
+					"name": "Employment: 42.84"
+				}, {
+					"name": "Finance: 66866780478"
+				}]
+			}]
+		},{
+			"name": "Japan",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 7252890.25"
+				}, {
+					"name": "Education: 99.97020721"
+				}, {
+					"name": "Employment: 59.49"
+				}, {
+					"name": "Finance: 1.38E+11"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 7273747"
+				}, {
+					"name": "Education: 99.97464752"
+				}, {
+					"name": "Employment: 58.9"
+				}, {
+					"name": "Finance: 87024232346"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 7282005"
+				}, {
+					"name": "Education: 99.98992157"
+				}, {
+					"name": "Employment: 57.93"
+				}, {
+					"name": "Finance: 1.06E+11"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 7292561.81"
+				}, {
+					"name": "Education: 99.99622345"
+				}, {
+					"name": "Employment: 57.62"
+				}, {
+					"name": "Finance: 1.18E+11"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 7296376"
+				}, {
+					"name": "Education: 99.96656036"
+				}, {
+					"name": "Employment: 57.59"
+				}, {
+					"name": "Finance: 1.48E+11"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 7300990"
+				}, {
+					"name": "Education: 99.9993515"
+				}, {
+					"name": "Employment: 57.75"
+				}, {
+					"name": "Finance: 1.49E+11"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 7301119"
+				}, {
+					"name": "Education: 99.99445343"
+				}, {
+					"name": "Employment: 57.91"
+				}, {
+					"name": "Finance: 1.38E+11"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 7301134"
+				}, {
+					"name": "Education: 99.99797821"
+				}, {
+					"name": "Employment: 58.06"
+				}, {
+					"name": "Finance: 2.24E+11"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 7296634"
+				}, {
+					"name": "Education: 99.98214722"
+				}, {
+					"name": "Employment: 57.78"
+				}, {
+					"name": "Finance: 1.81E+11"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 7286262"
+				}, {
+					"name": "Education: 99.97264862"
+				}, {
+					"name": "Employment: 56.85"
+				}, {
+					"name": "Finance: 1.68E+11"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 7317577"
+				}, {
+					"name": "Education: 99.96777344"
+				}, {
+					"name": "Employment: 56.63"
+				}, {
+					"name": "Finance: 2.47E+11"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 7302805"
+				}, {
+					"name": "Education: 99.94998932"
+				}, {
+					"name": "Employment: 56.61"
+				}, {
+					"name": "Finance: 1.58E+11"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 7286548"
+				}, {
+					"name": "Education: 99.94863129"
+				}, {
+					"name": "Employment: 56.50"
+				}, {
+					"name": "Finance: 53151012201"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 7274091"
+				}, {
+					"name": "Education: 99.9510498"
+				}, {
+					"name": "Employment: 56.92"
+				}, {
+					"name": "Finance: -4254582115"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 7374039"
+				}, {
+					"name": "Education: 99.95001221"
+				}, {
+					"name": "Employment: 57.31"
+				}, {
+					"name": "Finance: 58698141070"
+				}]
+			}]
+		},{
+			"name": "Korea",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 2686182.15"
+				}, {
+					"name": "Education: 99.75060272"
+				}, {
+					"name": "Employment: 58.46"
+				}, {
+					"name": "Finance: 9619700000"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 2706139"
+				}, {
+					"name": "Education: 99.86573029"
+				}, {
+					"name": "Employment: 58.97"
+				}, {
+					"name": "Finance: 8649800000"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 2721272"
+				}, {
+					"name": "Education: 99.72238922"
+				}, {
+					"name": "Employment: 59.98"
+				}, {
+					"name": "Finance: 6230900000"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 2734821.97"
+				}, {
+					"name": "Education: 98.09242249"
+				}, {
+					"name": "Employment: 59.29"
+				}, {
+					"name": "Finance: 16597900000"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 2745114"
+				}, {
+					"name": "Education: 97.08791351"
+				}, {
+					"name": "Employment: 59.81"
+				}, {
+					"name": "Finance: 34332300000"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 2750751"
+				}, {
+					"name": "Education: 98.30754089"
+				}, {
+					"name": "Employment: 59.68"
+				}, {
+					"name": "Finance: 18770700000"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 2764115"
+				}, {
+					"name": "Education: 97.076828"
+				}, {
+					"name": "Employment: 59.73"
+				}, {
+					"name": "Finance: 12545500000"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 2777013"
+				}, {
+					"name": "Education: 99.6880722"
+				}, {
+					"name": "Employment: 59.82"
+				}, {
+					"name": "Finance: 17493900000"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 279703"
+				}, {
+					"name": "Education: 99.69435883"
+				}, {
+					"name": "Employment: 59.54"
+				}, {
+					"name": "Finance: -6591600000"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 2810406"
+				}, {
+					"name": "Education: 99.07604218"
+				}, {
+					"name": "Employment: 58.63"
+				}, {
+					"name": "Finance: 27165900000"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 2823454"
+				}, {
+					"name": "Education: 98.94091034"
+				}, {
+					"name": "Employment: 58.71"
+				}, {
+					"name": "Finance: 23190000000"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 2844543"
+				}, {
+					"name": "Education: 98.97551727"
+				}, {
+					"name": "Employment: 59.06"
+				}, {
+					"name": "Finance: 24315800000"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 2857400"
+				}, {
+					"name": "Education: 98.98599243"
+				}, {
+					"name": "Employment: 59.35"
+				}, {
+					"name": "Finance: 51582400000"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 2869699"
+				}, {
+					"name": "Education: 96.4079895"
+				}, {
+					"name": "Employment: 59.55"
+				}, {
+					"name": "Finance: 80104600000"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 2881372.704"
+				}, {
+					"name": "Education: 96.54998016"
+				}, {
+					"name": "Employment: 60.22"
+				}, {
+					"name": "Finance: 89334000000"
+				}]
+			}]
+		},{
+			"name": "Luxemborg",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 24935.99"
+				}, {
+					"name": "Education: 97.09992981"
+				}, {
+					"name": "Employment: 52.16"
+				}, {
+					"name": "Finance: 9619700000"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 25234.57"
+				}, {
+					"name": "Education: 96.73729706"
+				}, {
+					"name": "Employment: 52.84"
+				}, {
+					"name": "Finance: 8649800000"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 25500.3285"
+				}, {
+					"name": "Education: 96.99645996"
+				}, {
+					"name": "Employment: 53.33"
+				}, {
+					"name": "Finance: 2003335246"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 25812.01"
+				}, {
+					"name": "Education: 95.86724091"
+				}, {
+					"name": "Employment: 52.18"
+				}, {
+					"name": "Finance: 1818797241"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 26181.377"
+				}, {
+					"name": "Education: 96.51260376"
+				}, {
+					"name": "Employment: 52.19"
+				}, {
+					"name": "Finance: 3471438736"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 26585.0199"
+				}, {
+					"name": "Education: 97.75449371"
+				}, {
+					"name": "Employment: 53.06"
+				}, {
+					"name": "Finance: 3904952968"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 27012.2988"
+				}, {
+					"name": "Education: 98.25315094"
+				}, {
+					"name": "Employment: 52.41"
+				}, {
+					"name": "Finance: 4793529410"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 27432.63"
+				}, {
+					"name": "Education: 98.3547821"
+				}, {
+					"name": "Employment: 53.66"
+				}, {
+					"name": "Finance: 3991530359"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 27927.268"
+				}, {
+					"name": "Education: 97.62522888"
+				}, {
+					"name": "Employment: 53.18"
+				}, {
+					"name": "Finance: 2958267484"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 28449.178"
+				}, {
+					"name": "Education: 94.5146523"
+				}, {
+					"name": "Employment: 55.18"
+				}, {
+					"name": "Finance: 3299096140"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 28973.098"
+				}, {
+					"name": "Education: 95.28935242"
+				}, {
+					"name": "Employment: 55.18"
+				}, {
+					"name": "Finance: 3446864581"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 29624.129"
+				}, {
+					"name": "Education: 94.62158966"
+				}, {
+					"name": "Employment: 54.77"
+				}, {
+					"name": "Finance: 2669049265"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 30344.055"
+				}, {
+					"name": "Education: 95.61618042"
+				}, {
+					"name": "Employment: 55.73"
+				}, {
+					"name": "Finance: 2788640645"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 23.652"
+				}, {
+					"name": "Education: 95.20979309"
+				}, {
+					"name": "Employment: 55.92"
+				}, {
+					"name": "Finance: 2858818262"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 23.602"
+				}, {
+					"name": "Education: 95.97609711"
+				}, {
+					"name": "Employment: 56.56"
+				}, {
+					"name": "Finance: 2958267484"
+				}]
+			}]
+		},{
+			"name": "Mexico",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 5765481.77"
+				}, {
+					"name": "Education: 98.58148193"
+				}, {
+					"name": "Employment: 57.70"
+				}, {
+					"name": "Finance: -17313349599"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 5835566.55"
+				}, {
+					"name": "Education: 98.42246246"
+				}, {
+					"name": "Employment: 56.85"
+				}, {
+					"name": "Finance: -21165165044"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 5909602.63"
+				}, {
+					"name": "Education: 99.04518127"
+				}, {
+					"name": "Employment: 56.78"
+				}, {
+					"name": "Finance: -15955472486"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 5984000.32"
+				}, {
+					"name": "Education: 98.47387695"
+				}, {
+					"name": "Employment: 56.17"
+				}, {
+					"name": "Finance: -12780304838"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 6054382.059"
+				}, {
+					"name": "Education: 97.3841095"
+				}, {
+					"name": "Employment: 57.17"
+				}, {
+					"name": "Finance: -11579629777"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 6122921.358"
+				}, {
+					"name": "Education: 96.12494659"
+				}, {
+					"name": "Employment: 57.22"
+				}, {
+					"name": "Finance: -5373704225"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 6194796.04"
+				}, {
+					"name": "Education: 95.16455078"
+				}, {
+					"name": "Employment: 57.99"
+				}, {
+					"name": "Finance: -8928213709"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 6273571.47"
+				}, {
+					"name": "Education: 94.86669159"
+				}, {
+					"name": "Employment: 57.92"
+				}, {
+					"name": "Finance: -10126759505"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 6359949.51"
+				}, {
+					"name": "Education: 97.77426147"
+				}, {
+					"name": "Employment: 57.61"
+				}, {
+					"name": "Finance: -26873475224"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 6448725.592"
+				}, {
+					"name": "Education: 96.94812012"
+				}, {
+					"name": "Employment: 56.68"
+				}, {
+					"name": "Finance: -7061176916"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 6528895.7"
+				}, {
+					"name": "Education: 96.2906723"
+				}, {
+					"name": "Employment: 56.50"
+				}, {
+					"name": "Finance: -26558594742"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 6610455.96"
+				}, {
+					"name": "Education: 97.02966309"
+				}, {
+					"name": "Employment: 56.67"
+				}, {
+					"name": "Finance: -26568295868"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 6688792.38"
+				}, {
+					"name": "Education: 97.61058044"
+				}, {
+					"name": "Employment: 57.46"
+				}, {
+					"name": "Finance: -24346834571"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 6765438.36"
+				}, {
+					"name": "Education: 97.49159241"
+				}, {
+					"name": "Employment: 57.31"
+				}, {
+					"name": "Finance: -42116772764"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 28.9925"
+				}, {
+					"name": "Education: 98.63427734"
+				}, {
+					"name": "Employment: 56.89"
+				}, {
+					"name": "Finance: -42375932578"
+				}]
+			}]
+		},{
+			"name": "Netherlands",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 910033.24"
+				}, {
+					"name": "Education: 99.50351715"
+				}, {
+					"name": "Employment: 61.80"
+				}, {
+					"name": "Finance: 7837676043"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 916929.26"
+				}, {
+					"name": "Education: 99.44924927"
+				}, {
+					"name": "Employment: 62.82"
+				}, {
+					"name": "Finance: 3489564861"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 922800.653"
+				}, {
+					"name": "Education: 99.4109726"
+				}, {
+					"name": "Employment: 63.22"
+				}, {
+					"name": "Finance: 4369001841"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 927164.8243"
+				}, {
+					"name": "Education: 99.26104736"
+				}, {
+					"name": "Employment: 62.42"
+				}, {
+					"name": "Finance: 23540648272"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 930392.14"
+				}, {
+					"name": "Education: 99.23803711"
+				}, {
+					"name": "Employment: 61.89"
+				}, {
+					"name": "Finance: 48719393938"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 932568.6527"
+				}, {
+					"name": "Education: 99.23313904"
+				}, {
+					"name": "Employment: 61.85"
+				}, {
+					"name": "Finance: 32354754082"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 34067.667"
+				}, {
+					"name": "Education: 99.12670135"
+				}, {
+					"name": "Employment: 62.75"
+				}, {
+					"name": "Finance: 52905155797"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 936101.716"
+				}, {
+					"name": "Education: 99.54563141"
+				}, {
+					"name": "Employment: 64.02"
+				}, {
+					"name": "Finance: 31918431378"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 939752.9366"
+				}, {
+					"name": "Education: 99.84105682"
+				}, {
+					"name": "Employment: 64.72"
+				}, {
+					"name": "Finance: 33932193249"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 944598.74"
+				}, {
+					"name": "Education: 99.67430115"
+				}, {
+					"name": "Employment: 64.48"
+				}, {
+					"name": "Finance: 64157066115"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 949455.62"
+				}, {
+					"name": "Education: 99.95765686"
+				}, {
+					"name": "Employment: 62.20"
+				}, {
+					"name": "Finance: 51445475344"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 953894.74"
+				}, {
+					"name": "Education: 99.90553284"
+				}, {
+					"name": "Employment: 61.32"
+				}, {
+					"name": "Finance: 69380482327"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 957431.2786"
+				}, {
+					"name": "Education: 99.85301971"
+				}, {
+					"name": "Employment: 61.22"
+				}, {
+					"name": "Finance: 59820442466"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 960258.19"
+				}, {
+					"name": "Education: 56.67098999"
+				}, {
+					"name": "Employment: 60.24"
+				}, {
+					"name": "Finance: 83931682629"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 952341.8"
+				}, {
+					"name": "Education: 56.29901886"
+				}, {
+					"name": "Employment: 59.62"
+				}, {
+					"name": "Finance: 77620940609"
+				}]
+			}]
+		},{
+			"name": "New Zealand",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 220448.15"
+				}, {
+					"name": "Education: 98.90872955"
+				}, {
+					"name": "Employment: 61.23"
+				}, {
+					"name": "Finance: -2077002230"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 221748.52"
+				}, {
+					"name": "Education: 97.2408905"
+				}, {
+					"name": "Employment: 62.20"
+				}, {
+					"name": "Finance: -1262340648"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 225632.09"
+				}, {
+					"name": "Education: 98.92144012"
+				}, {
+					"name": "Employment: 62.99"
+				}, {
+					"name": "Finance: -1495209134"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 230133.56"
+				}, {
+					"name": "Education: 98.05802917"
+				}, {
+					"name": "Employment: 63.15"
+				}, {
+					"name": "Finance: -5142452194"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 233578.877"
+				}, {
+					"name": "Education: 98.26959991"
+				}, {
+					"name": "Employment: 64.21"
+				}, {
+					"name": "Finance: -8581516579"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 236227.63"
+				}, {
+					"name": "Education: 99.10186768"
+				}, {
+					"name": "Employment: 65.1"
+				}, {
+					"name": "Finance: -8925630029"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 239123.8"
+				}, {
+					"name": "Education: 99.16523743"
+				}, {
+					"name": "Employment: 65.56"
+				}, {
+					"name": "Finance: -8902574262"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 241362.67"
+				}, {
+					"name": "Education: 99.53024292"
+				}, {
+					"name": "Employment: 65.92"
+				}, {
+					"name": "Finance: -7470151555"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 243415.535"
+				}, {
+					"name": "Education: 99.65534973"
+				}, {
+					"name": "Employment: 65.55"
+				}, {
+					"name": "Finance: -7517098660"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 245867.25"
+				}, {
+					"name": "Education: 99.45932007"
+				}, {
+					"name": "Employment: 63.98"
+				}, {
+					"name": "Finance: -1745050344"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 248613.84"
+				}, {
+					"name": "Education: 99.46920776"
+				}, {
+					"name": "Employment: 63.52"
+				}, {
+					"name": "Finance: 1040282860"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 250519.5"
+				}, {
+					"name": "Education: 99.62596893"
+				}, {
+					"name": "Employment: 63.89"
+				}, {
+					"name": "Finance: 1113957246"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 251894.46"
+				}, {
+					"name": "Education: 99.37976074"
+				}, {
+					"name": "Employment: 63.31"
+				}, {
+					"name": "Finance: -6757881681"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 253838.68"
+				}, {
+					"name": "Education: 98.34578705"
+				}, {
+					"name": "Employment: 63.91"
+				}, {
+					"name": "Finance: 566231929.7"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 257705.52"
+				}, {
+					"name": "Education: 98.49423981"
+				}, {
+					"name": "Employment: 64.98"
+				}, {
+					"name": "Finance: -3441811865"
+				}]
+			}]
+		},{
+			"name": "Norway",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 256631.63"
+				}, {
+					"name": "Education: 99.71898651"
+				}, {
+					"name": "Employment: 71.24"
+				}, {
+					"name": "Finance: 18182864308"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 257933.583"
+				}, {
+					"name": "Education: 99.77023315"
+				}, {
+					"name": "Employment: 71.09"
+				}, {
+					"name": "Finance: 26284470804"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 259328.15"
+				}, {
+					"name": "Education: 99.73963928"
+				}, {
+					"name": "Employment: 71.13"
+				}, {
+					"name": "Finance: 17708506426"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 260853.25"
+				}, {
+					"name": "Education: 99.85574341"
+				}, {
+					"name": "Employment: 69.73"
+				}, {
+					"name": "Finance: 21963704937"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 262399.75"
+				}, {
+					"name": "Education: 99.54985046"
+				}, {
+					"name": "Employment: 69.47"
+				}, {
+					"name": "Finance: 27609873680"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 264192.9125"
+				}, {
+					"name": "Education: 99.63269043"
+				}, {
+					"name": "Employment: 69.03"
+				}, {
+					"name": "Finance: 49571180134"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 266329.53"
+				}, {
+					"name": "Education: 99.80171204"
+				}, {
+					"name": "Employment: 69.41"
+				}, {
+					"name": "Finance: 41386536003"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 269099.23"
+				}, {
+					"name": "Education: 99.81313324"
+				}, {
+					"name": "Employment: 70.83"
+				}, {
+					"name": "Finance: 17791314267"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 272474.09"
+				}, {
+					"name": "Education: 99.33680725"
+				}, {
+					"name": "Employment: 71.90"
+				}, {
+					"name": "Finance: 75406005391"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 275932.0031"
+				}, {
+					"name": "Education: 99.15982056"
+				}, {
+					"name": "Employment: 70.39"
+				}, {
+					"name": "Finance: 38006252449"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 279390.66"
+				}, {
+					"name": "Education: 99.90352631"
+				}, {
+					"name": "Employment: 69.27"
+				}, {
+					"name": "Finance: 42952093129"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 283019.307"
+				}, {
+					"name": "Education: 99.96147156"
+				}, {
+					"name": "Employment: 69.04"
+				}, {
+					"name": "Finance: 79516497416"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 286776.45"
+				}, {
+					"name": "Education: 99.70134735"
+				}, {
+					"name": "Employment: 69.19"
+				}, {
+					"name": "Finance: 46943872029"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 290290.7464"
+				}, {
+					"name": "Education: 99.86459351"
+				}, {
+					"name": "Employment: 68.64"
+				}, {
+					"name": "Finance: 50474957226"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 293547.8909"
+				}, {
+					"name": "Education: 99.88796234"
+				}, {
+					"name": "Employment: 62.64"
+				}, {
+					"name": "Finance: 55443792887"
+				}]
+			}]
+		}, {
+			"name": "Australia",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 1087319.257"
+				}, {
+					"name": "Education: 94.1244"
+				}, {
+					"name": "Employment: 59.16999817"
+				}, {
+					"name": "Finance: -15048345265"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 1101419.252"
+				}, {
+					"name": "Education: 94.0042"
+				}, {
+					"name": "Employment: 59.02999878"
+				}, {
+					"name": "Finance: -7722005364"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 1114019.226"
+				}, {
+					"name": "Education: 94.0780"
+				}, {
+					"name": "Employment: 59.33000183"
+				}, {
+					"name": "Finance: -16036456525"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 1126933.485"
+				}, {
+					"name": "Education: 94.6440"
+				}, {
+					"name": "Employment: 59.81999969"
+				}, {
+					"name": "Finance: -28771663192"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 1139033.463"
+				}, {
+					"name": "Education: 95.0159"
+				}, {
+					"name": "Employment: 60.04000092"
+				}, {
+					"name": "Finance: -40641469114"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 1153033.445"
+				}, {
+					"name": "Education:95.4895 "
+				}, {
+					"name": "Employment: 61.15999985"
+				}, {
+					"name": "Finance: -42196079138"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 1168604.856"
+				}, {
+					"name": "Education: 95.8208"
+				}, {
+					"name": "Employment: 61.66"
+				}, {
+					"name": "Finance: -43714374664"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 1190162"
+				}, {
+					"name": "Education: 96.5983"
+				}, {
+					"name": "Employment: 62.23"
+				}, {
+					"name": "Finance: -62931241088"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 1214261.988"
+				}, {
+					"name": "Education: 96.7198"
+				}, {
+					"name": "Employment: 62.71"
+				}, {
+					"name": "Finance: -51156776269"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 1239504.835"
+				}, {
+					"name": "Education: 96.8398"
+				}, {
+					"name": "Employment: 61.79"
+				}, {
+					"name": "Finance: -48261682640"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 1258976.261"
+				}, {
+					"name": "Education: 97.1056"
+				}, {
+					"name": "Employment: 61.98"
+				}, {
+					"name": "Finance: -44133960646"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 1276561.983"
+				}, {
+					"name": "Education: 97.7657"
+				}, {
+					"name": "Employment: 62.1"
+				}, {
+					"name": "Finance: -42731460138"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 1298747.742"
+				}, {
+					"name": "Education: 97.6552"
+				}, {
+					"name": "Employment: 61.75"
+				}, {
+					"name": "Finance: -73326879492"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 1321462.06"
+				}, {
+					"name": "Education: 97.4503"
+				}, {
+					"name": "Employment: 61.27"
+				}, {
+					"name": "Finance: -54632442052"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 1342334"
+				}, {
+					"name": "Education: 97.1381"
+				}, {
+					"name": "Employment: 60.78"
+				}, {
+					"name": "Finance: -41330997630"
+				}]
+			}]
+		}, {
+			"name": "Austria",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 457808.2526"
+				}, {
+					"name": "Education: 92.2345"
+				}, {
+					"name": "Employment: 55.96"
+				}, {
+					"name": "Finance: -21314952670"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 459564.0752"
+				}, {
+					"name": "Education: 92.0010"
+				}, {
+					"name": "Employment: 55.9"
+				}, {
+					"name": "Finance: -23781471851"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 461840.0944"
+				}, {
+					"name": "Education: 92.3865"
+				}, {
+					"name": "Employment: 56.1"
+				}, {
+					"name": "Finance: -7269379921"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 463904.2871"
+				}, {
+					"name": "Education: 92.8965"
+				}, {
+					"name": "Employment: 56.33"
+				}, {
+					"name": "Finance: 3882896888"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 466829.784"
+				}, {
+					"name": "Education: 92.5684"
+				}, {
+					"name": "Employment: 53.92"
+				}, {
+					"name": "Finance: 9939595729"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 470020.5145"
+				}, {
+					"name": "Education: 92.8759"
+				}, {
+					"name": "Employment: 55.26"
+				}, {
+					"name": "Finance: 432238912.7"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 472458.8278"
+				}, {
+					"name": "Education: 92.7895"
+				}, {
+					"name": "Employment: 55.98"
+				}, {
+					"name": "Finance: 14807681385"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 474015.4691"
+				}, {
+					"name": "Education: 92.8945"
+				}, {
+					"name": "Employment: 57.02"
+				}, {
+					"name": "Finance: 16910232391"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 475521.2924"
+				}, {
+					"name": "Education: 92.3254"
+				}, {
+					"name": "Employment: 57.69"
+				}, {
+					"name": "Finance: 14991011007"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 476660.8343"
+				}, {
+					"name": "Education: 92.9874"
+				}, {
+					"name": "Employment: 57.24"
+				}, {
+					"name": "Finance: 12752168712"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 477780.0185"
+				}, {
+					"name": "Education: 92.8887"
+				}, {
+					"name": "Employment: 57.48"
+				}, {
+					"name": "Finance: 4747983191"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 479349.412"
+				}, {
+					"name": "Education: 92.4545"
+				}, {
+					"name": "Employment: 57.73"
+				}, {
+					"name": "Finance: 6092771594"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 481508.1003"
+				}, {
+					"name": "Education: 92.5686"
+				}, {
+					"name": "Employment: 57.81"
+				}, {
+					"name": "Finance: 6606292393"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 483922.9135"
+				}, {
+					"name": "Education: 92.8787"
+				}, {
+					"name": "Employment: 57.67"
+				}, {
+					"name": "Finance: 14428098208"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 4152171"
+				}, {
+					"name": "Education: 92.9989"
+				}, {
+					"name": "Employment: 57.28"
+				}, {
+					"name": "Finance: 3683720121"
+				}]
+			}]
+		}, {
+			"name": "Belgium",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 585790.5134"
+				}, {
+					"name": "Education: 99.1907"
+				}, {
+					"name": "Employment: 48.85"
+				}, {
+					"name": "Finance: 14076577416"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 587808.7997"
+				}, {
+					"name": "Education: 99.1114"
+				}, {
+					"name": "Employment: 47.75"
+				}, {
+					"name": "Finance: 10894529538"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 590449.5106"
+				}, {
+					"name": "Education: 99.1410"
+				}, {
+					"name": "Employment: 47.65"
+				}, {
+					"name": "Finance: 6427951551"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 592926.6222"
+				}, {
+					"name": "Education: 98.3117"
+				}, {
+					"name": "Employment: 47.4"
+				}, {
+					"name": "Finance: 10792944344"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 595498.34"
+				}, {
+					"name": "Education: 96.7821"
+				}, {
+					"name": "Employment: 48.2"
+				}, {
+					"name": "Finance: 9816642160"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 598782.9256"
+				}, {
+					"name": "Education: 96.6483"
+				}, {
+					"name": "Employment: 48.8"
+				}, {
+					"name": "Finance: 9219680886"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 602745.3082"
+				}, {
+					"name": "Education: 97.2572"
+				}, {
+					"name": "Employment: 48.73"
+				}, {
+					"name": "Finance: 7656953677"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 607187.6416"
+				}, {
+					"name": "Education: 98.3345"
+				}, {
+					"name": "Employment: 49.6"
+				}, {
+					"name": "Finance: 7477860362"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 612003.1756"
+				}, {
+					"name": "Education: 98.9981"
+				}, {
+					"name": "Employment: 49.93"
+				}, {
+					"name": "Finance: -9651825300"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 616947.1391"
+				}, {
+					"name": "Education: 98.73896"
+				}, {
+					"name": "Employment: 49.24"
+				}, {
+					"name": "Finance: -17606170174"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 624020.2621"
+				}, {
+					"name": "Education: 98.7772"
+				}, {
+					"name": "Employment: 49.59"
+				}, {
+					"name": "Finance: 6566625885"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 631304.3781"
+				}, {
+					"name": "Education: 98.7723"
+				}, {
+					"name": "Employment: 49.4"
+				}, {
+					"name": "Finance: -9334800511"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 635904.6454"
+				}, {
+					"name": "Education: 99.1473"
+				}, {
+					"name": "Employment: 49.23"
+				}, {
+					"name": "Finance: 2311334629"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 27.47050925"
+				}, {
+					"name": "Education: 99.2083"
+				}, {
+					"name": "Employment: 49.05"
+				}, {
+					"name": "Finance: -139859928.7"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 27.7613465"
+				}, {
+					"name": "Education: 99.1135"
+				}, {
+					"name": "Employment: 48.95"
+				}, {
+					"name": "Finance: -4335461696"
+				}]
+			}]
+		}, {
+			"name": "Brazil",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 10380605.33"
+				}, {
+					"name": "Education: 86.36788"
+				}, {
+					"name": "Employment: 62.25"
+				}, {
+					"name": "Finance: -21314952670"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 10533825.19"
+				}, {
+					"name": "Education: 98.85492706"
+				}, {
+					"name": "Employment: 62.35"
+				}, {
+					"name": "Finance: -23781471851"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 10685091.89"
+				}, {
+					"name": "Education: 96.72740936"
+				}, {
+					"name": "Employment: 63.16"
+				}, {
+					"name": "Finance: -7269379921"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 10832818.68"
+				}, {
+					"name": "Education: 94.2950592"
+				}, {
+					"name": "Employment: 62.56"
+				}, {
+					"name": "Finance: 3882896888"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 10976102.85"
+				}, {
+					"name": "Education: 96.58508301"
+				}, {
+					"name": "Employment: 63.75"
+				}, {
+					"name": "Finance: 9939595729"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 11114140.14"
+				}, {
+					"name": "Education: 95.58531189"
+				}, {
+					"name": "Employment: 51"
+				}, {
+					"name": "Finance: 14446272466"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 11246321.81"
+				}, {
+					"name": "Education: 96.07993317"
+				}, {
+					"name": "Employment: 64.45"
+				}, {
+					"name": "Finance: 15456047508"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 11372230.69"
+				}, {
+					"name": "Education: 89.61523"
+				}, {
+					"name": "Employment: 64.15"
+				}, {
+					"name": "Finance: -845490103.7"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 11491690.89"
+				}, {
+					"name": "Education: 92.47411346"
+				}, {
+					"name": "Employment: 52.47"
+				}, {
+					"name": "Finance: -25327461837"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 11604891.76"
+				}, {
+					"name": "Education: 98.53830719"
+				}, {
+					"name": "Employment: 62.89"
+				}, {
+					"name": "Finance: -23523714800"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 11712284.28"
+				}, {
+					"name": "Education: 90.37918"
+				}, {
+					"name": "Employment: 53.23"
+				}, {
+					"name": "Finance: -75899570498"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 11814107.63"
+				}, {
+					"name": "Education: 96.29276276"
+				}, {
+					"name": "Employment: 61.73"
+				}, {
+					"name": "Finance: -78977306647"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 11910689.92"
+				}, {
+					"name": "Education: 95.51374817"
+				}, {
+					"name": "Employment: 61.83"
+				}, {
+					"name": "Finance: -73926999991"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 11911689.92"
+				}, {
+					"name": "Education: 93.77903748"
+				}, {
+					"name": "Employment: 61.23"
+				}, {
+					"name": "Finance: -73803212680"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 11921689.92"
+				}, {
+					"name": "Education: 94.71505737"
+				}, {
+					"name": "Employment: 61.93"
+				}, {
+					"name": "Finance: -1.01E+11"
+				}]
+			}]
+		}, {
+			"name": "Canada",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 1753513.071"
+				}, {
+					"name": "Education: 99.9256"
+				}, {
+					"name": "Employment: 61.27"
+				}, {
+					"name": "Finance: 14076577416"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 1772520.091"
+				}, {
+					"name": "Education: 98.5632"
+				}, {
+					"name": "Employment: 61.15"
+				}, {
+					"name": "Finance: 10894529538"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 1791642.224"
+				}, {
+					"name": "Education: 98.5641"
+				}, {
+					"name": "Employment: 61.74"
+				}, {
+					"name": "Finance: 9312395816"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 1807985.729"
+				}, {
+					"name": "Education: 98.5647"
+				}, {
+					"name": "Employment: 62.44"
+				}, {
+					"name": "Finance: 11708509617"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 1825186.009"
+				}, {
+					"name": "Education: 99.756"
+				}, {
+					"name": "Employment: 63.37"
+				}, {
+					"name": "Finance: 24846574692"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 1842587.915"
+				}, {
+					"name": "Education: 99.8756"
+				}, {
+					"name": "Employment: 62.64"
+				}, {
+					"name": "Finance: 20398210556"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 1861494.323"
+				}, {
+					"name": "Education: 99.5687"
+				}, {
+					"name": "Employment: 62.6"
+				}, {
+					"name": "Finance: 19958335286"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 1881576.961"
+				}, {
+					"name": "Education: 98.2143"
+				}, {
+					"name": "Employment: 62.78"
+				}, {
+					"name": "Finance: 13373806960"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 1903870.811"
+				}, {
+					"name": "Education: 98.1562"
+				}, {
+					"name": "Employment: 63.41"
+				}, {
+					"name": "Finance: -1298570391"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 1927256.747"
+				}, {
+					"name": "Education: 9931254"
+				}, {
+					"name": "Employment: 61.49"
+				}, {
+					"name": "Finance: -42110803925"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 1950092.94"
+				}, {
+					"name": "Education: 98.5641"
+				}, {
+					"name": "Employment: 61.52"
+				}, {
+					"name": "Finance: -58296931444"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 1970517.459"
+				}, {
+					"name": "Education: 98.1562"
+				}, {
+					"name": "Employment: 61.69"
+				}, {
+					"name": "Finance: -49314383344"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 1993175.375"
+				}, {
+					"name": "Education: 99.1457"
+				}, {
+					"name": "Employment: 61.65"
+				}, {
+					"name": "Finance: -62756650554"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 24.04733075"
+				}, {
+					"name": "Education: 97.7456"
+				}, {
+					"name": "Employment: 61.76"
+				}, {
+					"name": "Finance: -56875381218"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 24.37575775"
+				}, {
+					"name": "Education: 98.8654"
+				}, {
+					"name": "Employment: 61.43"
+				}, {
+					"name": "Finance: -42304672446"
+				}]
+			}]
+		}, {
+			"name": "Chile",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 879878.9762"
+				}, {
+					"name": "Education: 95.2354"
+				}, {
+					"name": "Employment: 55.98"
+				}, {
+					"name": "Finance: -450702409.4"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 889815.8189"
+				}, {
+					"name": "Education: 95.16245"
+				}, {
+					"name": "Employment: 50.1"
+				}, {
+					"name": "Finance: -1957908443"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 899753.0255"
+				}, {
+					"name": "Education: 95.6452"
+				}, {
+					"name": "Employment: 49.32"
+				}, {
+					"name": "Finance: -1435700212"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 909689.9157"
+				}, {
+					"name": "Education: 94.5647"
+				}, {
+					"name": "Employment: 48.92"
+				}, {
+					"name": "Finance: -1516473987"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 919626.9341"
+				}, {
+					"name": "Education: 94.2658"
+				}, {
+					"name": "Employment: 49.68"
+				}, {
+					"name": "Finance: 2266463415"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 929563.9977"
+				}, {
+					"name": "Education: 96.5422"
+				}, {
+					"name": "Employment: 49.83"
+				}, {
+					"name": "Finance: 861004572.5"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 939015.0259"
+				}, {
+					"name": "Education: 95.6234"
+				}, {
+					"name": "Employment: 50.55"
+				}, {
+					"name": "Finance: 6463992710"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 948466.3768"
+				}, {
+					"name": "Education: 94.1257"
+				}, {
+					"name": "Employment: 51.75"
+				}, {
+					"name": "Finance: 6108987791"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 957917.5649"
+				}, {
+					"name": "Education: 96.5241"
+				}, {
+					"name": "Employment: 52.46"
+				}, {
+					"name": "Finance: -5962537286"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 967369.0636"
+				}, {
+					"name": "Education: 95.6242"
+				}, {
+					"name": "Employment: 53.15"
+				}, {
+					"name": "Finance: 3558887470"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 976820.6679"
+				}, {
+					"name": "Education: 95.1242"
+				}, {
+					"name": "Employment: 51.89"
+				}, {
+					"name": "Finance: 8347078713"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 985630.5503"
+				}, {
+					"name": "Education: 95.4242"
+				}, {
+					"name": "Employment: 53.71"
+				}, {
+					"name": "Finance: -4791221708"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 994440.7933"
+				}, {
+					"name": "Education: 96.2332"
+				}, {
+					"name": "Employment: 55.54"
+				}, {
+					"name": "Finance: -11973627868"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 1003251.399"
+				}, {
+					"name": "Education:95.3425 "
+				}, {
+					"name": "Employment: 55.72"
+				}, {
+					"name": "Finance: -12836124387"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 23.7875655"
+				}, {
+					"name": "Education: 94.1242"
+				}, {
+					"name": "Employment: 56.02"
+				}, {
+					"name": "Finance: -5936564903"
+				}]
+			}]
+		}, {
+			"name": "China",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 640214500.3"
+				}, {
+					"name": "Education: 90.9202"
+				}, {
+					"name": "Employment: 75.32"
+				}, {
+					"name": "Finance: 8590464000"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 643945000.3"
+				}, {
+					"name": "Education: 95.6324"
+				}, {
+					"name": "Employment: 75.34"
+				}, {
+					"name": "Finance: 12493000000"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 647661000.3"
+				}, {
+					"name": "Education: 96.2314"
+				}, {
+					"name": "Employment: 74.43"
+				}, {
+					"name": "Finance: 43165873537"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population:651405000.3 "
+				}, {
+					"name": "Education: 95.2314"
+				}, {
+					"name": "Employment: 73.82"
+				}, {
+					"name": "Finance: 51227222380"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 655207000.3"
+				}, {
+					"name": "Education: 96.231"
+				}, {
+					"name": "Employment: 73.23"
+				}, {
+					"name": "Finance: 81838473673"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 659088500.3"
+				}, {
+					"name": "Education: 96.5545"
+				}, {
+					"name": "Employment: 72.8"
+				}, {
+					"name": "Finance: 1.59E+11"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 663073000.3"
+				}, {
+					"name": "Education: 97.2564"
+				}, {
+					"name": "Employment: 72.44"
+				}, {
+					"name": "Finance: 2.39E+11"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 667172000.3"
+				}, {
+					"name": "Education: 95.2314"
+				}, {
+					"name": "Employment: 72.02"
+				}, {
+					"name": "Finance: 3.70E+11"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 671366500.3"
+				}, {
+					"name": "Education: 94.2535"
+				}, {
+					"name": "Employment: 71.43"
+				}, {
+					"name": "Finance: 4.42E+11"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 675624000.3"
+				}, {
+					"name": "Education: 95.4665"
+				}, {
+					"name": "Employment: 70.89"
+				}, {
+					"name": "Finance: 2.06E+11"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 679910500.3"
+				}, {
+					"name": "Education: 96.23522"
+				}, {
+					"name": "Employment: 69.18"
+				}, {
+					"name": "Finance: 1.90E+11"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 684220000.3"
+				}, {
+					"name": "Education: 94.2312"
+				}, {
+					"name": "Employment: 68.89"
+				}, {
+					"name": "Finance: 1.28E+11"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 688532500.3"
+				}, {
+					"name": "Education: 98.235"
+				}, {
+					"name": "Employment: 68.74"
+				}, {
+					"name": "Finance: 1.33E+11"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 692783500.3"
+				}, {
+					"name": "Education: 95.2323"
+				}, {
+					"name": "Employment: 68.61"
+				}, {
+					"name": "Finance: 88331174650"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 670000000"
+				}, {
+					"name": "Education: 97.2351"
+				}, {
+					"name": "Employment: 68.47"
+				}, {
+					"name": "Finance: 1.69E+11"
+				}]
+			}]
+		}, {
+			"name": "Colombia",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 2405712.175"
+				}, {
+					"name": "Education: 97.3241"
+				}, {
+					"name": "Employment: 51.54"
+				}, {
+					"name": "Finance: 849680646.8"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 2436636.216"
+				}, {
+					"name": "Education: 97.0835"
+				}, {
+					"name": "Employment: 57.46"
+				}, {
+					"name": "Finance: -1228224247"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 2467399.21"
+				}, {
+					"name": "Education: 97.5234"
+				}, {
+					"name": "Employment: 56.95"
+				}, {
+					"name": "Finance: -1165738905"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 2498452.113"
+				}, {
+					"name": "Education: 97.15235"
+				}, {
+					"name": "Employment: 58.52"
+				}, {
+					"name": "Finance: -840574063.1"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 2529468.743"
+				}, {
+					"name": "Education: 97.1392"
+				}, {
+					"name": "Employment: 57.54"
+				}, {
+					"name": "Finance: -715130643.7"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 2560519.644"
+				}, {
+					"name": "Education: 97.4523"
+				}, {
+					"name": "Employment: 58.11"
+				}, {
+					"name": "Finance: -1507250606"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 2591406.83"
+				}, {
+					"name": "Education: 96.3525"
+				}, {
+					"name": "Employment: 48.49"
+				}, {
+					"name": "Finance: -2863613170"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 2622509.661"
+				}, {
+					"name": "Education: 95.31532"
+				}, {
+					"name": "Employment: 56.73"
+				}, {
+					"name": "Finance: -5654583498"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 2653806.225"
+				}, {
+					"name": "Education: 96.4352"
+				}, {
+					"name": "Employment: 56.93"
+				}, {
+					"name": "Finance: -6921752278"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 2685309.569"
+				}, {
+					"name": "Education: 97.3525"
+				}, {
+					"name": "Employment: 58.88"
+				}, {
+					"name": "Finance: -4977828994"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 2716996.111"
+				}, {
+					"name": "Education: 97.13525"
+				}, {
+					"name": "Employment: 60.17"
+				}, {
+					"name": "Finance: -9331589675"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 2748937.432"
+				}, {
+					"name": "Education: 97.1545"
+				}, {
+					"name": "Employment: 61.43"
+				}, {
+					"name": "Finance: -8707050006"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 2781010.399"
+				}, {
+					"name": "Education: 96.255"
+				}, {
+					"name": "Employment: 62.5"
+				}, {
+					"name": "Finance: -11552237293"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 2813205.283"
+				}, {
+					"name": "Education: 97.56658"
+				}, {
+					"name": "Employment: 62.66"
+				}, {
+					"name": "Finance: -11738582179"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 28.37592875"
+				}, {
+					"name": "Education: 98.2365"
+				}, {
+					"name": "Employment: 63.06"
+				}, {
+					"name": "Finance: -19291958148"
+				}]
+			}]
+		}, {
+			"name": "Czech Republic",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 587004.5039"
+				}, {
+					"name": "Education: 94.235"
+				}, {
+					"name": "Employment: 54.65"
+				}, {
+					"name": "Finance: -2994489526"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 584243.818"
+				}, {
+					"name": "Education: 94.2353"
+				}, {
+					"name": "Employment: 55.06"
+				}, {
+					"name": "Finance: -2780797262"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 582905.5665"
+				}, {
+					"name": "Education: 94.56225"
+				}, {
+					"name": "Employment: 54.8"
+				}, {
+					"name": "Finance: -4006311797"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 582955.6741"
+				}, {
+					"name": "Education: 94.533"
+				}, {
+					"name": "Employment: 54.87"
+				}, {
+					"name": "Finance: -5179313979"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 583256.8578"
+				}, {
+					"name": "Education: 93.1366"
+				}, {
+					"name": "Employment: 55.26"
+				}, {
+					"name": "Finance: -6030303201"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 584809.3563"
+				}, {
+					"name": "Education: 95.2355"
+				}, {
+					"name": "Employment: 54.77"
+				}, {
+					"name": "Finance: -2111660211"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 586669.6485"
+				}, {
+					"name": "Education: 93.235"
+				}, {
+					"name": "Employment: 54.13"
+				}, {
+					"name": "Finance: -3804599582"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 589872.0514"
+				}, {
+					"name": "Education: 94.2664"
+				}, {
+					"name": "Employment: 54.67"
+				}, {
+					"name": "Finance: -5670499884"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 595986.4763"
+				}, {
+					"name": "Education: 94.52362"
+				}, {
+					"name": "Employment: 55.03"
+				}, {
+					"name": "Finance: -2441671194"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 599517.9278"
+				}, {
+					"name": "Education: 95.23563"
+				}, {
+					"name": "Employment: 54.77"
+				}, {
+					"name": "Finance: -4236926445"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 600989.7536"
+				}, {
+					"name": "Education: 94.235"
+				}, {
+					"name": "Employment: 54.19"
+				}, {
+					"name": "Finance: -6446006703"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 599814.0518"
+				}, {
+					"name": "Education: 95.2355"
+				}, {
+					"name": "Employment: 54.35"
+				}, {
+					"name": "Finance: -4447523616"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 600535.0281"
+				}, {
+					"name": "Education: 95.2355"
+				}, {
+					"name": "Employment: 54.55"
+				}, {
+					"name": "Finance: 668717798.5"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 600616.9601"
+				}, {
+					"name": "Education: 95.235"
+				}, {
+					"name": "Employment: 55.15"
+				}, {
+					"name": "Finance: 3524769286"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 601420.6504"
+				}, {
+					"name": "Education: 94.2352"
+				}, {
+					"name": "Employment: 55.69"
+				}, {
+					"name": "Finance: 2947398527"
+				}]
+			}]
+		}, {
+			"name": "Denmark",
+			"children": [{
+				"name": "2000",
+				"children": [{
+					"name": "Population: 305125.7002"
+				}, {
+					"name": "Education: 98.12521"
+				}, {
+					"name": "Employment: 63.36"
+				}, {
+					"name": "Finance: -2204780137"
+				}]
+			}, {
+				"name": "2001",
+				"children": [{
+					"name": "Population: 306220.9842"
+				}, {
+					"name": "Education: 99.1252"
+				}, {
+					"name": "Employment: 63.22"
+				}, {
+					"name": "Finance: 9029220081"
+				}]
+			}, {
+				"name": "2002",
+				"children": [{
+					"name": "Population: 307200.8696"
+				}, {
+					"name": "Education: 97.1252"
+				}, {
+					"name": "Employment: 62.6"
+				}, {
+					"name": "Finance: 1716188509"
+				}]
+			}, {
+				"name": "2003",
+				"children": [{
+					"name": "Population: 308037.6426"
+				}, {
+					"name": "Education: 98.12562"
+				}, {
+					"name": "Employment: 62.44"
+				}, {
+					"name": "Finance: 9798490736"
+				}]
+			}, {
+				"name": "2004",
+				"children": [{
+					"name": "Population: 308834.7589"
+				}, {
+					"name": "Education: 99.1582"
+				}, {
+					"name": "Employment: 62.83"
+				}, {
+					"name": "Finance: 17596604270"
+				}]
+			},{
+				"name": "2005",
+				"children": [{
+					"name": "Population: 309686.7422"
+				}, {
+					"name": "Education: 99.1255"
+				}, {
+					"name": "Employment: 61.94"
+				}, {
+					"name": "Finance: 8988076033"
+				}]
+			},{
+				"name": "2006",
+				"children": [{
+					"name": "Population: 310706.1804"
+				}, {
+					"name": "Education: 98.21525"
+				}, {
+					"name": "Employment: 62.5"
+				}, {
+					"name": "Finance: 2178124147"
+				}]
+			},{
+				"name": "2007",
+				"children": [{
+					"name": "Population: 312087.1216"
+				}, {
+					"name": "Education: 95.5225"
+				}, {
+					"name": "Employment: 62.48"
+				}, {
+					"name": "Finance: 3847246866"
+				}]
+			},{
+				"name": "2008",
+				"children": [{
+					"name": "Population: 313926.198"
+				}, {
+					"name": "Education: 99.2365"
+				}, {
+					"name": "Employment: 63.36"
+				}, {
+					"name": "Finance: -3067328734"
+				}]
+			},{
+				"name": "2009",
+				"children": [{
+					"name": "Population: 315610.4524"
+				}, {
+					"name": "Education: 98.235"
+				}, {
+					"name": "Employment: 61.41"
+				}, {
+					"name": "Finance: 7521923920"
+				}]
+			},{
+				"name": "2010",
+				"children": [{
+					"name": "Population: 317015.543"
+				}, {
+					"name": "Education: 98.21252"
+				}, {
+					"name": "Employment: 59.65"
+				}, {
+					"name": "Finance: -1000003098"
+				}]
+			},{
+				"name": "2011",
+				"children": [{
+					"name": "Population: 318323.5392"
+				}, {
+					"name": "Education: 99.235"
+				}, {
+					"name": "Employment: 59.09"
+				}, {
+					"name": "Finance: 18665435639"
+				}]
+			},{
+				"name": "2012",
+				"children": [{
+					"name": "Population: 319523.5857"
+				}, {
+					"name": "Education: 99.155"
+				}, {
+					"name": "Employment: 58.41"
+				}, {
+					"name": "Finance: 17154407172"
+				}]
+			},{
+				"name": "2013",
+				"children": [{
+					"name": "Population: 320858.4573"
+				}, {
+					"name": "Education: 99.2565"
+				}, {
+					"name": "Employment: 57.99"
+				}, {
+					"name": "Finance: 13334783459"
+				}]
+			},{
+				"name": "2014",
+				"children": [{
+					"name": "Population: 330005.2"
+				}, {
+					"name": "Education: 98.2321"
+				}, {
+					"name": "Employment: 58.09"
+				}, {
+					"name": "Finance: 26883560329"
+				}]
+			}]
+		} 
+		
+	]
+}
